@@ -1,0 +1,43 @@
+
+    div.container {
+        width: 100%;
+        border: 1px solid: red;
+    }
+
+    header, footer {
+        padding: 1em;
+        color: green;
+        background-color:black;
+        clear: left;
+        text-align: center;
+    }
+    nav {
+        float: left;
+        max-width: 160px;
+        margin: 2;
+        padding: 1em;
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding: 2em;
+    }
+
+    nav ul a {
+        text-decoration: none;
+    }
+    article {
+        margin-left: 170px;
+        border-left: 1px solid black;
+        padding: 1em;
+        overflow: hidden;
+    }
+    body{
+        background: black;
+    }
+    #wrapbody{
+        width: 90%;
+        height: auto;
+        margin: 10px 20px 10px 20px;
+        background: lightblue;
+    }
